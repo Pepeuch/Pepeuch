@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:164e9c,100:06b6d4&height=210&section=header&text=Pepeuch&fontColor=ffffff&fontSize=65&fontAlignY=37&desc=Robotics%20%C2%B7%20Embedded%20systems%20%C2%B7%20Open%20source&descAlignY=59&descSize=18&animation=fadeIn" alt="Pepeuch — Robotics, Embedded systems, Open source" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:164e9c,100:06b6d4&height=210&section=header&text=Pepeuch&fontColor=ffffff&fontSize=65&fontAlignY=37&desc=Robotique%20%C2%B7%20%C3%89colonomie%20%C2%B7%20Open%20source&descAlignY=59&descSize=18&animation=fadeIn" alt="Pepeuch — Robotique, Écolonomie, Open source" width="100%" />
 
 ### 👋 Salut, moi c'est Pepeuch !
 
-**Robotique autonome · Électronique · Systèmes embarqués · Domotique**
+**Robotique autonome · Écolonomie · Électronique · Systèmes embarqués · Domotique**
 
-Je conçois et développe des solutions reliant **logiciel et monde physique** : navigation autonome, GNSS RTK, capteurs, électronique embarquée et intégration ROS 2.
+Je conçois des solutions reliant **logiciel et monde physique**, avec une conviction : **faire mieux avec ce qui existe déjà**. Réemployer du matériel, prolonger sa durée de vie et rendre la robotique plus abordable sont au cœur de mes projets.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Pepeuch-181717?style=for-the-badge&logo=github)](https://github.com/Pepeuch)
 [![MowgliNext](https://img.shields.io/badge/Projet-MowgliNext-2563eb?style=for-the-badge&logo=github)](https://github.com/mowglinext/mowglinext)
@@ -18,16 +18,32 @@ Je conçois et développe des solutions reliant **logiciel et monde physique** :
 
 ---
 
+## ♻️ L’écolonomie, ma philosophie
+
+**L’écologie et l’économie ne sont pas incompatibles : elles peuvent avancer ensemble.**
+
+L’idée est simple : **récupérer, réparer, adapter et moderniser** des machines ou des composants électroniques qui existent déjà, plutôt que de systématiquement tout remplacer.
+
+- 🔄 **Donner une seconde vie** aux machines, moteurs, cartes électroniques et capteurs.
+- 🌍 **Réduire les déchets électroniques** et éviter les remplacements inutiles.
+- 💶 **Diminuer le coût de fabrication** en valorisant le matériel récupéré.
+- 🔓 **Privilégier les solutions ouvertes et modulaires** pour faciliter la réparation et les évolutions.
+
+> **Ma devise : recycler l’existant, innover intelligemment et rendre la technologie accessible.**
+
+---
+
 ## 🚀 Projets phares
 
 ### 🌱 [MowgliNext](https://github.com/mowglinext/mowglinext)
 
-**Plateforme open source de robot tondeuse autonome basée sur ROS 2.**
+**Plateforme open source de robot tondeuse autonome basée sur ROS 2, pensée aussi pour redonner vie à des machines existantes.**
 
 - 🛰️ Navigation GNSS RTK et gestion des corrections
 - 📡 Détection et évitement d'obstacles par LiDAR
 - 🧭 Navigation autonome avec Nav2 et planification de couverture
 - 🔧 Intégration de différents matériels et contrôleurs, dont **ArduPilot / MAVROS**
+- ♻️ Réutilisation et adaptation de composants et de tondeuses existants, lorsque c’est possible
 
 ### 🛰️ [Universal GNSS](https://github.com/Pepeuch/universal-gnss)
 
@@ -79,8 +95,8 @@ Développements et expérimentations autour de **STM32, ESP32, Raspberry Pi, Roc
 
 ### 🎯 Mon objectif
 
-**Rendre la robotique autonome plus accessible, modulaire et ouverte à tous.**
+**Associer robotique, écologie et économie : moins de déchets, moins de coûts, plus de possibilités.**
 
-*Construire, expérimenter, partager.* 🤖
+*Récupérer · Réparer · Moderniser · Partager* ♻️🤖
 
 </div>
